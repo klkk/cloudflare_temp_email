@@ -37,7 +37,7 @@ ADMIN_PASSWORDS = ["123.", "456."]
 # admin 联系方式，不配置则不显示，可配置任意字符串
 # ADMIN_CONTACT = "xx@xx.xxx"
 # DEFAULT_DOMAINS = ["xxx.xxx1" , "xxx.xxx2"] # 默认用户可用的域名(未登录或未分配角色的用户)
-DOMAINS = ["xxx.xxx1" , "xxx.xxx2"] # 你的域名, 支持多个域名
+DOMAINS = ["ganfanjia.top" ] # 你的域名, 支持多个域名
 # 对于中文域名，可以使用 DOMAIN_LABELS 显示域名的中文展示名称
 # DOMAIN_LABELS = ["中文.xxx", "xxx.xxx2"]
 # 新用户默认角色, 仅在启用邮件验证时有效
